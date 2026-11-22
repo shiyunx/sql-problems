@@ -2,6 +2,6 @@
 
 This repository includes sql problems from different platforms.
 
-1. HackerRank
-2. LeetCode
-3. SQL Challenges
+1. hackerrank
+2. leetCode
+3. sql challenges
